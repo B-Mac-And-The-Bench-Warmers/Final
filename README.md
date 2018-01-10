@@ -6,7 +6,7 @@ To start the bracket the user will press start in the menu which will then bring
 To use this form, the user must install microsoft visual studio. The form is free to install. 
 To run the bracket, there are buttons which will move the team's name to the next label. To continue the bracket, there wil me more buttons for the next round. The buttons are label so the user knows which button to press and when to press it.
 To deploy this system, visual studio needs to be up with this form open. This will then start the user with our menu.
-Built with <ul> 
+<br>Built with <ul> 
  <li>Microsoft Visual Studio 
  <li>Git hub desktop
   <li>github.com<br>
